@@ -1,0 +1,46 @@
+# Скомпилированные бинарные файлы C++
+*.exe
+*.out
+*.obj
+*.o
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# C++ кэш файлы и временные файлы
+*.gch
+*.pch
+*.log
+
+# Visual Studio/Visual Studio Code
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+*.filters
+
+# Конфигурационные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# ESLint
+.eslintcache
+
+# Конфигурации и временные файлы ОС
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Сборочные директории
+build/
+dist/
